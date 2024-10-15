@@ -1,0 +1,11 @@
+action_code,action_name
+0,view
+1,like
+2,addB
+3,delB
+4,clearB
+5,order
+6,listB
+7,visit
+8,visitCategory
+9,search
